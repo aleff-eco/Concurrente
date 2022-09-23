@@ -1,2 +1,1 @@
 # Concurrente
-# Concurrente
